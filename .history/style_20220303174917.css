@@ -1,0 +1,6 @@
+:root {
+    --prim-clr: #6d0000;
+    --sec-clr: #005e1f;
+    --accent-clr: #0057c4;
+    background-color: var(--prim-clr);
+}

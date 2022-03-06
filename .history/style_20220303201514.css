@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Fjalla+One&display=swap');
+
+:root {
+    --prim-clr: #6d0000;
+    --sec-clr: #005e1f;
+    --accent-clr: #0057c4;
+    background-color: var(--prim-clr);
+    --prim-font: 'BhuTuka Expanded One', cursive;
+    --sec-font: 'Fjalla One', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: var(--prim-font);
+    font-size: 3rem;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    font-family: var(--sec-font);
+    font-size: 2rem;
+    color: whitesmoke;
+}
